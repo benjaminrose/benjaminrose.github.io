@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Benjamin Rose]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-11-10T15:04:19-05:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://benjaminrose.github.io/atom.xml" rel="self"/>
+  <link href="http://benjaminrose.github.io/"/>
+  <updated>2014-11-10T15:24:18-05:00</updated>
+  <id>http://benjaminrose.github.io/</id>
   <author>
     <name><![CDATA[Benjamin Rose]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/blog/2014/11/10/hello-world/"/>
+    <link href="http://benjaminrose.github.io/blog/2014/11/10/hello-world/"/>
     <updated>2014-11-10T14:33:25-05:00</updated>
-    <id>http://yoursite.com/blog/2014/11/10/hello-world</id>
+    <id>http://benjaminrose.github.io/blog/2014/11/10/hello-world</id>
     <content type="html"><![CDATA[<p>This is a test post to see how well Octopress works. I think I would rather blog with python then ruby but we will see.</p>
 ]]></content>
   </entry>
