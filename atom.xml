@@ -4,7 +4,7 @@
   <title><![CDATA[Benjamin Rose]]></title>
   <link href="http://benjaminrose.github.io/atom.xml" rel="self"/>
   <link href="http://benjaminrose.github.io/"/>
-  <updated>2014-11-18T11:04:19-05:00</updated>
+  <updated>2015-01-02T18:10:39-08:00</updated>
   <id>http://benjaminrose.github.io/</id>
   <author>
     <name><![CDATA[Benjamin Rose]]></name>
@@ -15,7 +15,7 @@
   <entry>
     <title type="html"><![CDATA[hello world]]></title>
     <link href="http://benjaminrose.github.io/blog/2014/11/10/hello-world/"/>
-    <updated>2014-11-10T14:33:25-05:00</updated>
+    <updated>2014-11-10T11:33:25-08:00</updated>
     <id>http://benjaminrose.github.io/blog/2014/11/10/hello-world</id>
     <content type="html"><![CDATA[<p>This is a test post to see how well Octopress works. I think I would rather blog with python then ruby but we will see.</p>
 ]]></content>
