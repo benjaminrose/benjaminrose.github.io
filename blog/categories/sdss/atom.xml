@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Benjamin Rose]]></title>
-  <link href="http://benjaminrose.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: sdss | Benjamin Rose]]></title>
+  <link href="http://benjaminrose.github.io/blog/categories/sdss/atom.xml" rel="self"/>
   <link href="http://benjaminrose.github.io/"/>
   <updated>2015-01-23T15:36:53-05:00</updated>
   <id>http://benjaminrose.github.io/</id>
@@ -10,21 +10,8 @@
     <name><![CDATA[Benjamin Rose]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Andromeda in 4K]]></title>
-    <link href="http://benjaminrose.github.io/blog/2015/01/23/andromeda-in-4k/"/>
-    <updated>2015-01-23T15:27:48-05:00</updated>
-    <id>http://benjaminrose.github.io/blog/2015/01/23/andromeda-in-4k</id>
-    <content type="html"><![CDATA[<p>The second post in my <a href="http://benjaminrose.github.io/blog/categories/cool-science/">cool science</a> series is about the gigapixels that Hubble Space Telescope <a href="http://www.stsci.edu/hst/">(H</a><a href="http://en.wikipedia.org/wiki/Hubble_Space_Telescope">ST)</a> took of <a href="http://en.wikipedia.org/wiki/Andromeda_Galaxy">Andromeda</a>, the nearest galaxy to us. There is a press release with videos (with good narration) and photos are available on <a href="http://hubblesite.org/newscenter/archive/releases/2015/02/">hubblesite.org</a>. But here is my favorite video<a href="I%20hope%20you%20can%20see%20this%20in%204K%20since%20it%20is%20available%20at%20that%20resolution.">^1</a>:</p>
-
-<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/udAL48P5NJU?rel=0" frameborder="0" allowfullscreen></iframe>
-
-
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sloan at Night]]></title>
@@ -56,15 +43,6 @@
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello world]]></title>
-    <link href="http://benjaminrose.github.io/blog/2014/11/10/hello-world/"/>
-    <updated>2014-11-10T14:33:25-05:00</updated>
-    <id>http://benjaminrose.github.io/blog/2014/11/10/hello-world</id>
-    <content type="html"><![CDATA[<p>This is a test post to see how well Octopress works. I think I would rather blog with python then ruby but we will see.</p>
 ]]></content>
   </entry>
   

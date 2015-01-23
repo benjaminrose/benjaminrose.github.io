@@ -4,7 +4,7 @@
   <title><![CDATA[Category: astronomy | Benjamin Rose]]></title>
   <link href="http://benjaminrose.github.io/blog/categories/astronomy/atom.xml" rel="self"/>
   <link href="http://benjaminrose.github.io/"/>
-  <updated>2015-01-23T15:16:28-05:00</updated>
+  <updated>2015-01-23T15:36:53-05:00</updated>
   <id>http://benjaminrose.github.io/</id>
   <author>
     <name><![CDATA[Benjamin Rose]]></name>
@@ -14,19 +14,36 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Andromeda in 4K]]></title>
+    <link href="http://benjaminrose.github.io/blog/2015/01/23/andromeda-in-4k/"/>
+    <updated>2015-01-23T15:27:48-05:00</updated>
+    <id>http://benjaminrose.github.io/blog/2015/01/23/andromeda-in-4k</id>
+    <content type="html"><![CDATA[<p>The second post in my <a href="/blog/categories/cool-science/">cool science</a> series is about the gigapixels that Hubble Space Telescope <a href="http://www.stsci.edu/hst/">(H</a><a href="http://en.wikipedia.org/wiki/Hubble_Space_Telescope">ST)</a> took of <a href="http://en.wikipedia.org/wiki/Andromeda_Galaxy">Andromeda</a>, the nearest galaxy to us. There is a press release with videos (with good narration) and photos are available on <a href="http://hubblesite.org/newscenter/archive/releases/2015/02/">hubblesite.org</a>. But here is my favorite video<a href="I%20hope%20you%20can%20see%20this%20in%204K%20since%20it%20is%20available%20at%20that%20resolution.">^1</a>:</p>
+
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/udAL48P5NJU?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Sloan at Night]]></title>
     <link href="http://benjaminrose.github.io/blog/2015/01/23/sloan-at-night/"/>
     <updated>2015-01-23T14:55:48-05:00</updated>
     <id>http://benjaminrose.github.io/blog/2015/01/23/sloan-at-night</id>
-    <content type="html"><![CDATA[<p>I have recently come across some interesting publications from the astronomical community. These are all generated as public promotions. I hope to create a category on this blog full of <a href="www.google.com">cool science</a>.</p>
+    <content type="html"><![CDATA[<p>I have recently come across some interesting publications from the astronomical community. These are all generated as public promotions. I hope to create a category on this blog full of <a href="benjaminrose.github.io/blog/categories/cool-science/">cool science</a>.</p>
 
-<p>The first is Sloan at Night. Here is a video of the Sloan Digital Sky Survey (SDSS) and what it does in the course of a night. It has been running for a decade<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. SDSS has given us an enormous amount of data because it surveys the the sky to try to understand questions that can only be answered with data sets of large systems. One question it has helped to answer is the structure of the universe. Also it has helped to understand rare new classes of stars<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>.</p>
+<p>The first is Sloan at Night. Here is a video of the Sloan Digital Sky Survey (SDSS) and what it does in the course of a night.  It has been running for <!-- more --> a decade<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. SDSS has given us an enormous amount of data because it surveys the the sky to try to understand questions that can only be answered with data sets of large systems. One question it has helped to answer is the structure of the universe. Also it has helped to understand rare new classes of stars<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>.</p>
 
-<p>So here is a video of what SDSS looks like at night, from inital set-up, to middle of the night changing, calibration<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>, and more.</p>
+<p>So here is a video of what SDSS looks like at night, from initial set-up, to middle of the night changing, calibration<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>, and more.</p>
 
 <iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/AHsS57NMQjE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
+
+
+<!-- [cool science]: /blog/categories/cool-science/ -->
 
 <div class="footnotes">
 <hr/>
