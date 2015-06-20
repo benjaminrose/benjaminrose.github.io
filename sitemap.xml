@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000/2015/06/code-like-a-girl/</loc>
+    <loc>http://benjaminrose.github.io/2015/06/code-like-a-girl/</loc>
     <lastmod>2015-06-20T15:18:10-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/2015/06/100-days-of-asher/</loc>
+    <loc>http://benjaminrose.github.io/2015/06/100-days-of-asher/</loc>
     <lastmod>2015-06-16T22:30:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>http://benjaminrose.github.io/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/tags/</loc>
+    <loc>http://benjaminrose.github.io/tags/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/about/</loc>
+    <loc>http://benjaminrose.github.io/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/contact/</loc>
+    <loc>http://benjaminrose.github.io/contact/</loc>
   </url>
 </urlset>
