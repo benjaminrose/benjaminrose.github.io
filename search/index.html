@@ -5,15 +5,15 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Latest Posts &#8211; Benjamin Rose</title>
-<meta name="description" content="A simple and clean responsive Jekyll theme for words and photos.">
+<title>Search &#8211; Benjamin Rose</title>
+
 
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Latest Posts">
-<meta name="twitter:description" content="A simple and clean responsive Jekyll theme for words and photos.">
+<meta name="twitter:title" content="Search">
+
 <meta name="twitter:site" content="@_benjaminrose">
 <meta name="twitter:creator" content="@_benjaminrose">
 
@@ -23,16 +23,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Latest Posts">
-<meta property="og:description" content="A simple and clean responsive Jekyll theme for words and photos.">
-<meta property="og:url" content="http://localhost:4000/">
+<meta property="og:title" content="Search">
+
+<meta property="og:url" content="http://localhost:4000/search/">
 <meta property="og:site_name" content="Benjamin Rose">
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/">
+<link rel="canonical" href="http://localhost:4000/search/">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Benjamin Rose Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -115,27 +115,30 @@
     
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title">Latest Posts</h1>
+        <h1 class="entry-title">Search</h1>
       </header>
       <div class="entry-content">
-        <ul class="post-list">
- 
-  <li><article><a href="http://localhost:4000/2015/06/welcome-to-jekyll/">Welcome to Jekyll! <span class="entry-date"><time datetime="2015-06-20T06:53:31-04:00">June 20, 2015</time></span> <span class="excerpt"><p>You’ll find this post in your <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+        <!-- Search form -->
+<form method="get" action="http://localhost:4000/search/" data-search-form="" class="simple-search">
+  <label for="q">Search Benjamin Rose for:</label>
+  <input type="search" name="q" id="goog-wm-qt" placeholder="What are you looking for?" data-search-input="" autofocus="" />
+  <input type="submit" value="Search" id="goog-wm-sb" />
+</form>
 
-</span></a></article></li>
- 
-  <li><article><a href="http://localhost:4000/2015/06/100-days-of-asher/">100 Days of Asher <span class="entry-date"><time datetime="2015-06-16T22:30:00-04:00">June 16, 2015</time></span> <span class="excerpt"><p>My son turned 100 (days) yesterday. As a retrospective my wife and I took a photo (or something else) from each day and made a video. <!-- more --> Viewing the completed project I was shocked to see how much he has grown, developed and come into his own personality<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
+<!-- Search results placeholder -->
+<h6 data-search-found="">
+  <span data-search-found-count=""></span> result(s) found for &ldquo;<span data-search-found-term=""></span>&rdquo;.
+</h6>
+<ul class="post-list" data-search-results=""></ul>
 
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>He is still growing in his personality. This morning I was able to have a tickle/giggle fight while he was waking up in his bassinet. It was great after a hard day yesterday. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-</span></a></article></li>
+<!-- Search result template -->
+<script type="text/x-template" id="search-result">
+  <li><article>
+    <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
+  </article></li>
+</script>
 
-</ul>
+
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
   </article>
