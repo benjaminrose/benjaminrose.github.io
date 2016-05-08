@@ -1,0 +1,27 @@
+---
+layout: post
+title: Lost Mode
+date: 2015-09-18T23:20:28-04:00
+summary: My wife lost her phone tonight, but it all turned out ok.
+tags: apple, iphone
+---
+
+
+My wife lost her phone tonight. It fell out of her pocket while we were out getting ice cream. And here is my story about how Apple's [Lost Mode] and [Find My iPhone] made us feel a lot more comfortable.
+
+When we got home, my wife quickly asked, "Do you know where my phone is?" I pulled out my phone and asked [Siri] "Where is my wife?"[^fmf] I saw that she was on the other side of the river from our house. It was then I knew her iPhone had slipped out of her pocket. I quickly opened Find my iPhone, and since we have [Family Sharing] enabled, I was able to put my wife's phone in "Lost Mode."
+
+![screen shot of lost mode]({filename}/images/lost-mode.jpg){:width="75%"}
+
+This mode is amazing. It suspends [Apple Pay], and puts up a message saying the phone is lost. [^all] This message is my favorite, because not only does it say this phone is lost it also displays and prompts the finder to call a number you enter when placing the phone in this mode. On my drive back to get it, I even got a call from the shop informing me they had found the phone and were holding it behind the counter.
+
+All in all everything worked great. All we lost was a few minutes, a bit of gas, and possibly some dignity. But the phone -- and all of its data -- was safe.
+
+[Lost Mode]: https://support.apple.com/kb/PH2700?locale=en_US&viewlocale=en_US
+[Find My iPhone]: https://support.apple.com/kb/PH2698?viewlocale=en_US
+[Siri]: https://www.apple.com/ios/siri/
+[Apple Pay]: https://www.apple.com/apple-pay/
+[Family Sharing]: https://www.apple.com/icloud/family-sharing/
+
+[^fmf]: All you need is for Siri to know who your spouse is, be connected with them inside of [Find My Friend](https://www.apple.com/apps/find-my-friends/) and you can be the most creepy person ever!
+[^all]: This is all we needed because her phone is always locked with a passcode.

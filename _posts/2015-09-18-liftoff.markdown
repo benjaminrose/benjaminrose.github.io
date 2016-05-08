@@ -1,0 +1,26 @@
+---
+layout: post
+title: Liftoff
+date: 2015-09-18T16:37:11-04:00
+summary: "Liftoff is a podcast about space where you don't need to be a rocket scientist to listen."
+tags: podcast
+link: http://www.relay.fm/liftoff
+category: astronomy
+---
+
+<style>
+.left-inline
+{
+    float: left;
+    display: inline;
+    width: 350px;
+    margin-left: 1em;
+    margin-right: 3em;
+}
+</style>
+
+<img src="https://relayfm.s3.amazonaws.com/uploads/broadcast/image/20/broadcast_thumbnail_liftoff_artwork.png" class="left-inline" alt="Liftoff logo" />
+
+[Liftoff](http://www.relay.fm/liftoff) is a podcast about space where you don't need to be a rocket scientist to listen. It has currently released 3 episodes[^1], and they plan on releasing it fortnightly. I highly recommend it as an easy way to learn a little bit about space.
+
+[^1]: or 4 if you count their 0th episode
