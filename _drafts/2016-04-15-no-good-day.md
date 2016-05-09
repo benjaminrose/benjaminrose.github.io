@@ -2,7 +2,6 @@
 layout: post
 title: A no good horrible rotten day
 date: 2016-04-15
-publish: false
 ---
 
 This is a draft, how do I do drafts in Pelican?
