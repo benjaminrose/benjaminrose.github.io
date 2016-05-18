@@ -1,0 +1,8 @@
+.left-inline
+{
+    float: left;
+    display: inline;
+    width: 350px;
+    margin-left: 1em;
+    margin-right: 3em;
+}
