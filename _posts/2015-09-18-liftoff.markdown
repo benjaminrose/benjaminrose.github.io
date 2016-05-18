@@ -8,7 +8,7 @@ link: http://www.relay.fm/liftoff
 category: astronomy
 ---
 
-<style>
+<!-- <style>
 .left-inline
 {
     float: left;
@@ -17,7 +17,7 @@ category: astronomy
     margin-left: 1em;
     margin-right: 3em;
 }
-</style>
+</style> -->
 
 <img src="https://relayfm.s3.amazonaws.com/uploads/broadcast/image/20/broadcast_thumbnail_liftoff_artwork.png" class="left-inline" alt="Liftoff logo" />
 
