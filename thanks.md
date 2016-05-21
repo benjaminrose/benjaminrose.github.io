@@ -10,12 +10,13 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
 
 [Psalm 118]: https://www.biblegateway.com/passage/?search=Psalm+118&version=NLT
 
-----
- **Update:** On July, 14, 2015 I changed the rules. Before I would not repeat, EVER![^repeat] That seems to extreme. From now on, I will not repeat from the last seven days, but will try not to repeat within a given month.
-
-[^repeat]: It also just got hard to keep track of all of these thanks.
-
-----
+<div class="update">
+<p>
+<strong>Update: 2015-07-14 </strong> 
+<br>
+I changed the rules. Before I would not repeat, EVER! (It also just got hard to keep track of all of these thanks.) That seems to extreme. From now on, I will not repeat from the last seven days, but will try not to repeat within a given month.
+</p>
+</div> 
 
 
 # I am thankful for . . .
@@ -173,10 +174,13 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
 * 2015-07-22
     - friends who will help you do stupid things
 
-----
-**Update: 2015-07-23** I started this project as a challenge from my pastor; I continued it past a week because of how I felt emotionally. Now I am feeling more positive and this activity feels compulsory and forcing me to invest time in something that feels less needed and almost in the way. From here on, I will continue to look for things, but I will only add the big things to the list. I will also update the list at least once a week so this does not get lost in the shuffle of life in grad-school while having a baby.
-
-----
+<div class="update">
+<p>
+<strong>Update: 2015-07-23 </strong> 
+<br>
+I started this project as a challenge from my pastor; I continued it past a week because of how I felt emotionally. Now I am feeling more positive and this activity feels compulsory and forcing me to invest time in something that feels less needed and almost in the way. From here on, I will continue to look for things, but I will only add the big things to the list. I will also update the list at least once a week so this does not get lost in the shuffle of life in grad-school while having a baby.
+</p>
+</div>
 
 * 2015-07-25
    - batteries for when the power goes out

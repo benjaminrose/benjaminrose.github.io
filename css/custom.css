@@ -1,3 +1,12 @@
+/*
+custom CSS for Benjamin's website.
+I have no idea what I am doing. I borrow from other souces and try to referance them.
+*/
+
+
+/***********/
+/*Images*/
+/***********/
 .left-inline
 {
     float: left;
@@ -5,4 +14,54 @@
     width: 350px;
     margin-left: 1em;
     margin-right: 3em;
+}
+
+
+/**********/
+/*Videos*/
+/**********/
+
+/*auto reizing frames*/
+/*from: http://stackoverflow.com/questions/7737557/how-can-i-make-the-youtube-player-scale-to-the-width-of-the-page-but-also-keep-t*/
+.auto-resizable-iframe {
+  max-width: 560px;
+  margin: 0px auto;
+}
+
+.auto-resizable-iframe > div {
+  position: relative;
+  padding-bottom: 75%;
+  height: 0px;
+}
+
+.auto-resizable-iframe iframe {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+/************/
+/*Content*/
+/************/
+
+div.update {
+  padding-left: 1em;
+  padding-right: 1em;
+  background-color: #ADD8E6;
+  border: 2px solid #384338;
+  margin-bottom: .5em;
+}
+
+ div.update  blockquote {
+  background-color: inherit;
+}
+
+div.footnotes{
+	border-top: 1px solid #384338;
+	padding-top:  1em;
+	margin-top: 3em;
 }
