@@ -216,3 +216,12 @@ I started this project as a challenge from my pastor; I continued it past a week
     - having energy to spend 45 minutes trying to get my son to sleep.
 * 2015-09-14
     - the inspiration for a song to creatively express my feelings.
+
+
+## May 2016
+
+* 2016-05-22
+    - SSDs
+    - warm spring days that can be spent outside. 
+    - motivation to always find something productive to do
+    - [our LILLEbaby](http://www.amazon.com/SIX-Position-Ergonomic-Child-Carrier-LILLEbaby/dp/B00KC4VPNU/ref=sr_1_4_s_it?s=baby-products&ie=UTF8&qid=1463971554&sr=1-4&keywords=lillebaby+carrier)
