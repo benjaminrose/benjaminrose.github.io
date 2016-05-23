@@ -3,7 +3,7 @@ layout: post
 title: Early Flash of an Exploding Star
 date: 2016-03-21
 link: http://www.nasa.gov/feature/ames/Kepler/caught-for-the-first-time-the-early-flash-of-an-exploding-star
-tags: supernova, K2, Kepler
+tags: supernova, K2, Kepler, video
 category: astronomy
 ---
 
@@ -13,7 +13,11 @@ Lets briefly explain what a shock break out is. To do this we will follow two pa
 
 Some day I should go into more details on how a CC SN explodes, but till then enjoy a movie/animation of the data they saw with [Kepler].
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kLlILnQjGfc" frameborder="0" allowfullscreen></iframe>
+<div class="auto-resizable-iframe">
+	<div>
+		<iframe src="https://www.youtube.com/embed/kLlILnQjGfc" frameborder="0" allowfullscreen></iframe>
+	</div>
+</div>
 
 
 [^1]: 'Cause the shock, brook out. Aren't scientist creative with their naming?

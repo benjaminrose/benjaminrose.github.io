@@ -9,4 +9,8 @@ summary: BuzzFeed did an amazing job on this, and it was [Casey Liss](http://www
 
 BuzzFeed did an amazing job on this, and it was [Casey Liss](http://www.caseyliss.com/about)'s [blog](http://www.caseyliss.com) that first pointed me to this video. I hope you enjoy.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MyGh89qizME?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="auto-resizable-iframe">
+    <div>
+        <iframe src="https://www.youtube-nocookie.com/embed/MyGh89qizME?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
