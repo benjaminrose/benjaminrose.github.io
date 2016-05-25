@@ -13,7 +13,11 @@ Here is a video of the Sloan Digital Sky Survey (SDSS) and what it does in the c
 
 So here is a video of what SDSS looks like at night, from initial set-up, to middle of the night changing, calibration[^3], and more.
 
-<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/AHsS57NMQjE?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="auto-resizable-iframe">
+    <div>
+        <iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/AHsS57NMQjE?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
 
 
 [^1]: to be honest I am not sure exactly how long it has been running other then it is in its fourth set of programs and each set takes 3-4 years
