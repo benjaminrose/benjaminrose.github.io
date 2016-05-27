@@ -225,3 +225,8 @@ I started this project as a challenge from my pastor; I continued it past a week
     - warm spring days that can be spent outside. 
     - motivation to always find something productive to do
     - [our LILLEbaby](http://www.amazon.com/SIX-Position-Ergonomic-Child-Carrier-LILLEbaby/dp/B00KC4VPNU/ref=sr_1_4_s_it?s=baby-products&ie=UTF8&qid=1463971554&sr=1-4&keywords=lillebaby+carrier)
+* 2016-05-26
+    - Date nights
+    - new computers
+    - my son building a relationship with his grandpa (from earlier in the month)
+    - turning a corner in every aspect of my life. May was way better then April.
