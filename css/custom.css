@@ -7,14 +7,31 @@ I have no idea what I am doing. I borrow from other souces and try to referance 
 /***********/
 /*Images*/
 /***********/
-.left-inline
-{
+img {
+	/*center images, via http://www.w3.org/Style/Examples/007/center.en.html*/
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.left-inline, img.right-inline {
+	display: inline;
+	width : 40%;
+}
+img.left-inline {
     float: left;
-    display: inline;
-    width: 350px;
+    /*width: 350px;*/
     margin-left: 1em;
     margin-right: 3em;
 }
+
+img.right-inline {
+    float: right;
+    /*width: 225px;*/
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
 
 
 /**********/
@@ -56,7 +73,7 @@ div.update {
   margin-bottom: .5em;
 }
 
- div.update  blockquote {
+div.update  blockquote {
   background-color: inherit;
 }
 

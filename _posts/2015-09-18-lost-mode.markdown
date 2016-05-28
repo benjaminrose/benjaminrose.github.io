@@ -11,7 +11,7 @@ My wife lost her phone tonight. It fell out of her pocket while we were out gett
 
 When we got home, my wife quickly asked, "Do you know where my phone is?" I pulled out my phone and asked [Siri] "Where is my wife?"[^fmf] I saw that she was on the other side of the river from our house. It was then I knew her iPhone had slipped out of her pocket. I quickly opened Find my iPhone, and since we have [Family Sharing] enabled, I was able to put my wife's phone in "Lost Mode."
 
-![screen shot of lost mode]({filename}/images/lost-mode.jpg){:width="75%"}
+![screen shot of lost mode]({{ "/images/lost-mode.jpg" | prepend: site.baseurl }}){:width="50%"}
 
 This mode is amazing. It suspends [Apple Pay], and puts up a message saying the phone is lost. [^all] This message is my favorite, because not only does it say this phone is lost it also displays and prompts the finder to call a number you enter when placing the phone in this mode. On my drive back to get it, I even got a call from the shop informing me they had found the phone and were holding it behind the counter.
 
