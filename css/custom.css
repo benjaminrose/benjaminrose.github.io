@@ -41,7 +41,7 @@ img.right-inline {
 /*auto reizing frames*/
 /*from: http://stackoverflow.com/questions/7737557/how-can-i-make-the-youtube-player-scale-to-the-width-of-the-page-but-also-keep-t*/
 .auto-resizable-iframe {
-  max-width: 560px;
+  max-width: 640px;
   margin: 0px auto;
 }
 
@@ -78,7 +78,7 @@ div.update  blockquote {
 }
 
 div.footnotes{
-	border-top: 1___px solid #384338;
+	border-top: 1px solid #384338;
 	padding-top:  1em;
 	margin-top: 3em;
 }
