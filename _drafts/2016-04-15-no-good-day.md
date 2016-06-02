@@ -1,16 +1,14 @@
 ---
 layout: post
-title: A no good horrible rotten day
+title: A Terrible, Horrible, No Good, Very Bad Day
 date: 2016-04-15
 ---
 
-This is a draft, how do I do drafts in Pelican?
+So today was no good. It started last night when at 10:30 we realized we needed some groceries for dinner the next day. Now we were hosting dinner so there was no way to change the meal plan, or even go out. We needed to make it to the grocery store and have dinner before 6:30. We only have one car so this means some interesting scheduling In this case, the schedule was for me to go to the grocery store before my wife needed to go to work. That was the monkey wrench in the start of my day.
 
-So today was no good. It started last night when at 10:30 we realized we needed some groceries for dinner the next day. Now we were hosting so there was no way to change the meal plan, or even go out. We needed to make it to the grocery store before 6:30. We only have one car so this means some interesting scheduling In this case, the schedule was for me to go to the grocery store before my wife needed to go to work. That was the monkey wrench in the start of my day.
+There was also the issue that my phone got stuck restarting. I did all the normal trouble shooting, starting with the simple stuff last night, the more complicated stuff this morning, and attempting to wipe the phone once I got to work. Nothing worked. This means my no good horrible rotten day was a day where I would not have my phone. So no always on communication with my wife (remember we have a party we are planning). Also no Internet connection to get a bus schedule ('cause I have no personal transportation currently).
 
-There was also the issue that my phone got stuck restarting. So I did all the normal trouble shooting, starting with the simple stuff last night, the more complicated stuff this morning, and attempting to wipe the phone once I got to work. Nothing worked. This means my no good horrible rotten day was a day where I would not have my phone. So no always on communication with my wife (remember we have a party we are planning). Also no Internet connection to get a bus schedule ('cause I have no personal transportation currently).
-
-When I was at work. My slow computer became slower. I knew I was coming to a point where it needed a few applications closed and a reboot. I started that process, but sadly a bit late. This computer was slower then malassus. After a restart, it was still having major issues. It just did not work today. It is Friday after all.
+When I was at work. My slow computer became slower. I knew I was coming to a point where it needed a few applications closed and a reboot. I started that process, but sadly a bit late. This computer was slower then molasses. After a restart, it was still having major issues. It just did not work today. It is Friday after all.
 
 By lunch time. I had only read through my emails and the arXiv. And at this point my iPad was also acting strangely with crashing apps and freezing completely once.
 
