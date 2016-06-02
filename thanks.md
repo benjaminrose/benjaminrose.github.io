@@ -230,3 +230,10 @@ I started this project as a challenge from my pastor; I continued it past a week
     - new computers
     - my son building a relationship with his grandpa (from earlier in the month)
     - turning a corner in every aspect of my life. May was way better then April.
+
+## June 2016
+
+* 2016-06-01
+    - Time alone
+* 2016-06-02
+    - Seeing joy spring from sorrow
