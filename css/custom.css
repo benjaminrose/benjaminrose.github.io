@@ -3,6 +3,20 @@ custom CSS for Benjamin's website.
 I have no idea what I am doing. I borrow from other souces and try to referance them.
 */
 
+/***********/
+/*basics*/
+/***********/
+h2.posts-index{
+	margin-bottom: 0px;
+}
+
+.post-nav a.prev{
+	float: left;
+}
+
+.post-nav a.next{
+	float: right;
+}
 
 /***********/
 /*Images*/
@@ -41,7 +55,8 @@ img.right-inline {
 /*auto reizing frames*/
 /*from: http://stackoverflow.com/questions/7737557/how-can-i-make-the-youtube-player-scale-to-the-width-of-the-page-but-also-keep-t*/
 .auto-resizable-iframe {
-  max-width: 640px;
+  max-width: 720px;
+  /*center page content is 740px*/
   margin: 0px auto;
 }
 
