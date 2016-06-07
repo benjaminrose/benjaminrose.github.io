@@ -28,9 +28,11 @@ layout: default
 
 
 <div class='post-nav'>
+  <!-- if the previous page existes -->
   {% if page.previous.title %}
     <a rel="prev" class="previous" href="{{ page.previous.url | prepend: site.baseurl }}">← Previous</a>
   {% endif %}
+  <!-- if the next page existes -->
   {% if page.next.title %}
     <a rel="next" class="next" href="{{ page.next.url | prepend: site.baseurl }}">Next →</a>
   {% endif %}
