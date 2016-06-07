@@ -10,7 +10,6 @@ date: 2015-01-23 15:27:48 -0500
 summary: I want to share with you the 1.5 gigapixels that Hubble Space Telescope took of the Andromeda galaxy.
 ---
 
-
 Everyone talks about how many megapixels their camera has. That is how many 1,000,000 pixels. So the iPhone has 8,000,000 pixels. I want to share with you the [1.5 gigapixels][^gigapixels] that [Hubble Space Telescope][hst1] ([HST][hst2]) took of [Andromeda], the nearest galaxy to us. There is a press release with videos (with good narration) and photos are available on [hubblesite.org]. But here is my favorite video[^1]:
 
 <div class="auto-resizable-iframe">

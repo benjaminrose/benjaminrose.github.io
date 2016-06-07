@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Apple's Macbook 1
-<!--permalink: -->
 
 date: 2016-05-17 19:26:00 -0500
 
-summary: Many people complain about Apple's new 12" Macbook.
+summary: Many people complain about Apple's new 12 inch Macbook.
 ---
 
 Many people complain about Apple's new 12" Macbook. You can find terrible reviews all over the place. There are a few [possitive](https://overcast.fm/+BMJqgjzJg/37:50) [reviews](https://overcast.fm/+Eh4At_0kY/07:37) that talk about the [statement piece](https://sixcolors.com/post/2016/05/2016-macbook-review/) that this device is, but most of its press is overtly negative.
