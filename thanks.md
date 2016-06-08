@@ -237,3 +237,7 @@ I started this project as a challenge from my pastor; I continued it past a week
     - Time alone
 * 2016-06-02
     - Seeing joy spring from sorrow
+* 2016-06-08
+    - Not being alone
+        - I have a wife who tries to fix everything that bothers me
+        - I volunteer with people who help me get my tasks done, rather then before when I had to do everything
