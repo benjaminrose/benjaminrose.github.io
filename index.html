@@ -21,7 +21,7 @@ layout: default
         {% if post.summary %}
           <p> {{ post.summary}} </p>
         {% else %}
-        {{ post.content | truncate: 800, '<a href="google.com"> . . .</a>' }}
+        {{ post.content | truncatewords: 150, '<a href="google.com"> . . .</a>' }}
         {% endif %}
       </li>
       <!-- <hr> -->

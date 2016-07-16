@@ -2,7 +2,7 @@
 layout: post
 title: Andromeda in 4K
 <!--permalink: -->
-tags: HST, video
+tags: HST video
 category: astronomy
 
 date: 2015-01-23 15:27:48 -0500

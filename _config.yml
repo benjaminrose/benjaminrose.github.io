@@ -15,9 +15,22 @@ baseurl: "" # the subpath of your site, e.g. /blog, adds everypage after this
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: _benjaminrose
 github_username:  benjaminrose
+# flikr_username: 
 
 # Build settings
 markdown: kramdown
 
+##index page!
+paginate: 5
+
+## blog settings
+permalink: /blog/:year/:month/:day/:title.html
+##Peronal gems and additions
 # add files that Jekyll wants to ignore
-include: [.htaccess]
+include: []
+
+#jekyll-archives does things by year and stores the categories strangly. 
+# it was easier to just make my own pages.
+
+gems:
+  - jekyll-paginate
