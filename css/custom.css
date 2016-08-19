@@ -10,12 +10,22 @@ h2.posts-index{
 	margin-bottom: 0px;
 }
 
-.post-nav a.prev{
+/*float previous and next left and right*/
+.page-nav a.left{
 	float: left;
 }
-
-.post-nav a.next{
+.page-nav a.right{
 	float: right;
+  /*margin-bottom: 15px;*/
+}
+
+/*fix spacing */
+.page-nav p{
+  margin-bottom: 0px;
+}
+div.page-nav{
+  min-height: 24px;
+  margin-bottom: 15px;
 }
 
 /***********/

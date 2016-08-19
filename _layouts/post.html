@@ -28,13 +28,13 @@ layout: default
 </article>
 
 
-<div class='post-nav'>
-  <!-- if the previous page existes -->
-  {% if page.previous.title %}
-    <a rel="prev" class="previous" href="{{ page.previous.url | prepend: site.baseurl }}">← Previous</a>
-  {% endif %}
-  <!-- if the next page existes -->
+<div class='page-nav'>
+  <!-- if the next/newer page existes -->
   {% if page.next.title %}
-    <a rel="next" class="next" href="{{ page.next.url | prepend: site.baseurl }}">Next →</a>
+    <a rel="left" class="left" href="{{ page.next.url | prepend: site.baseurl }}">← Newer</a>
+  {% endif %}
+  <!-- if the previous/older page existes -->
+  {% if page.previous.title %}
+    <a rel="right" class="right" href="{{ page.previous.url | prepend: site.baseurl }}">Older →</a>
   {% endif %}
 </div>
