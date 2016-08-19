@@ -20,9 +20,6 @@ github_username:  benjaminrose
 # Build settings
 markdown: kramdown
 
-##index page!
-paginate: 5
-
 ## blog settings
 permalink: /blog/:year/:month/:day/:title.html
 ##Peronal gems and additions
@@ -34,3 +31,7 @@ include: []
 
 gems:
   - jekyll-paginate
+
+##index page!
+paginate: 5
+paginate_path: "page:num"
