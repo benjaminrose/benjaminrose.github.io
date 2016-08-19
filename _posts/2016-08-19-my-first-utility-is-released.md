@@ -34,7 +34,7 @@ Once you make the script executable[^1], you can use the script by either run it
 
 [^1]: details in the [readme][code] file
 
-I am more then happy to take suggestions or contributions. Please report [issues], [fork the repo], or submit a [pull request]. I am sure this can be better, and I am happy to consider input. 
+I am more than happy to take suggestions or contributions. Please report [issues], [fork the repo], or submit a [pull request]. I am sure this can be better, and I am happy to consider input. 
 
 [issues]: https://github.com/benjaminrose/csv2deluxetable/issues
 [fork the repo]: https://github.com/benjaminrose/csv2deluxetable#fork-destination-box
