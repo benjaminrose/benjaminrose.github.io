@@ -26,7 +26,8 @@ permalink: /blog/:year/:month/:day/:title.html
 # add files that Jekyll wants to ignore
 include: []
 #allow future posts to wait to be deployed, https://talk.jekyllrb.com/t/latest-posts-not-being-output-in-for-loop/2006/2?u=anthonyjsmith
-future: true
+#this posts them NOW, not later!
+# future: true
 
 #jekyll-archives does things by year and stores the categories strangly. 
 # it was easier to just make my own pages.
