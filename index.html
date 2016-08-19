@@ -19,9 +19,9 @@ layout: default
         </h2>
         <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
         {% if post.summary %}
-          <p> {{ post.summary}} </p>
+          <p> {{ post.summary}} <a href="{{ post.url | prepend: site.baseurl }}"> →</a> </p>
         {% else %}
-        {{ post.content | truncatewords: 150, '<a href="google.com"> . . .</a>' }}
+          {{ post.content | truncatewords: 150, ' . . .'}}
         {% endif %}
       </li>
       <!-- <hr> -->
