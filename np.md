@@ -20,7 +20,7 @@ over this one
 # Prayer requests options
 <a href="https://northpointvineyard.ccbchurch.com/form_response.php?id=39" target="_blank">Prayer Request</a>
 
-<iframe src="https://northpointvineyard.ccbchurch.com/form_response.php?id=39" width="100%" height="600"></iframe>
+<iframe src="https://northpointvineyard.ccbchurch.com/form_response.php?id=39" style="width:100%; height:80em;"></iframe>
 
 <iframe src="https://northpointvineyard.ccbchurch.com/w_form_list.php" width="600" height="200"></iframe>
 
