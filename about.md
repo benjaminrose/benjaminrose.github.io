@@ -24,3 +24,10 @@ I am a graduate student at the [University of Notre Dame][nd-phys] doing researc
 If you want to know more you can read my [CV].
 
 [CV]: /cv/
+
+# About this Site
+
+I use affiliate links for to [Amazon], and I would not turn down any [gifts given][square] through generosity. 
+
+[Amazon]: https://www.amazon.com//ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=benjaminros0f-20&linkId=de5cbac379cbc21e038681e2dd313f77
+[square]: https://cash.me/$rose
