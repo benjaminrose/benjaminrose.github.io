@@ -248,3 +248,10 @@ I started this project as a challenge from my pastor; I continued it past a week
     - Not stressing about unplanned vet bills
     - Consitency and expectedness in my relationship with my wife. Worring is the worst.  
     - A baby who is comfortable looking to me, rather then trying to go it alone. 
+    
+## November
+
+* 2016-11-25
+    - Slow days with the family in the city.
+* 2016-11-28
+    - Busses that are late when you are late.
