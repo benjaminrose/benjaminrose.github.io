@@ -255,3 +255,9 @@ I started this project as a challenge from my pastor; I continued it past a week
     - Slow days with the family in the city.
 * 2016-11-28
     - Busses that are late when you are late.
+
+## December
+
+* 2016-12-13
+    - escapism from story telling, particuarly video
+    - double gloves
