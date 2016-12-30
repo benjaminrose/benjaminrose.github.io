@@ -10,27 +10,35 @@ date: 2016-09-25 15:10:48 -0400
 summary: 
 ---
 
-My son is now 18 months. And in the past year and a half I have read a number of kids books. I wanted to contribute my small portion to the discussion of good children's books. You can read about them here, or click the link to them on Amazon.
+My son is now almost two years old. And in that time I have read a number of children's books. I wanted to contribute my small portion to the discussion of good children's books. You can read about them here, or click the link to them on Amazon[^1].
+
+[1]: Full disclosure, these are affiliate links. A very small percentage (less than sales tax!) of your purchase in that seasion on Amazon comes to me for sending you to them.
 
 ## Ten Nine Eight
 
-This is a lovely and simple book. My son gives the little girl in the store "Three kisses . . . " right on cue. He also loves to follow the ***cat and ball and shoes
+This is a lovely and simple book about a girl getting ready for bed. My son gives the little girl in the store "Three solf kisses" right on cue. He also loves to follow the cat, ball and shoes aa they move arpund in this going to bed scene. 
 
 ## Say Hello
 ''
 
-Carmalita and her dog are so much fun. They make their way to their grandmother's house via their diverse neighborhood. I am sure you will learn at least one new way to say hello from this book and Carmalita's neighborhood. 
+Carmalita and her dog are so much fun. They make their way to their grandmother's house via their diverse (NYC?) neighborhood. I am sure you will learn at least one new way to "Say Hello" from Carmalita's neighbors. 
 
 ## Sesame Street
 ![Sesame Street We're Different, We're the Same ](https://images-na.ssl-images-amazon.com/images/I/61xGK-674OL._SY497_BO1,204,203,200_.jpg)
+
+This book shows how we are all different yet the same. How our hair --and our other appearances-- may look different, but it still frames all of our faces. 
 
 ## Charley the Ranch Dog
 
 no paperback and it looks like a series?
 
-Cookies Week?
+## Cookies Week?
 
-Mama do you love me?
+## Mama do you love me?
+
+## From Head to Toe (Eric Carol)
+
+This one is great with slightly older kids. When they are learning to talk, walk and dance this book will show (and ask you to participate?) you, like only Eric Caroll can, how monkies wave their arms and elephants stop their feet. 
 
 [1098]: https://www.amazon.com/Nine-Eight-Board-Caldecott-Collection/dp/0688149014/ref=as_li_ss_tl?ie=UTF8&qid=1474846530&sr=8-1&keywords=10+9+8&linkCode=ll1&tag=benjaminros0f-20&linkId=2842278294489dc7230cd773989cda6b
 [sayhello]: https://www.amazon.com/Say-Hello-Rachel-Isadora/dp/0399252304/ref=as_li_ss_tl?ie=UTF8&qid=1474846576&sr=8-1-fkmr0&keywords=carmalita+says+hello&linkCode=ll1&tag=benjaminros0f-20&linkId=870efad5276d940b157d7551cb358cfc
