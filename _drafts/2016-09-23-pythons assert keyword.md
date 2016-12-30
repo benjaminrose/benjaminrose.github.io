@@ -19,7 +19,7 @@ if not expression:
     raise AssertionError
 ```
 
-Science is all about slowly building experimental knowledge on the past through new tests of ideas. Our code should test itself[^1]. When solving problems as a student, teachers always instruct you to check how realistic your answer is when you are done. Like you would never get a plane flying at [11 km/s][escape velocity]. Nor would a rocket ship go faster then [3 x 10<sup></sup> km/s][light]. You just learn limits like these. There sanity checks should be just be apart of our code!
+Science is all about slowly building experimental knowledge on the past through new tests of ideas. Our code should test itself[^1]. When solving problems as a student, teachers always instruct you to check how realistic your answer is when you are done. Like you would never get a plane flying at [11 km/s][escape velocity], nor would a rocket ship go faster then [3 x 10<sup>8</sup> km/s][light]. You just learn limits like these. There sanity checks should be just be apart of our code!
 
 [escape velocity]: http://www.wolframalpha.com/input/?i=escape+velocity+of+the+earth
 [light]: http://www.wolframalpha.com/input/?i=speed+of+light
