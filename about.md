@@ -14,7 +14,7 @@ I am a PhD candidate studying Physics. I love technology, photography, music, an
 
 # About my Career
 
-I am a graduate student at the [University of Notre Dame][nd-phys] doing research in Astrophysics. I try to understanding [Type Ia supernovae][sn] and use them to understand the [dynamics of the universe][obs-cosmology] with my advisor [Peter Garnavich][peter]. More details can be found on my [professional page][brose3], including a copy of my [CV].
+I am a graduate student at the [University of Notre Dame][nd-phys] doing research in Astrophysics. I try to understanding [Type Ia supernovae][sn] and use them to understand the [dynamics and age of the universe][obs-cosmology] with my advisor [Peter Garnavich][peter]. More details can be found on my [professional page][brose3], including a copy of my [CV].
 
 [nd-phys]: http://www.physics.nd.edu
 [sn]: https://en.wikipedia.org/wiki/Type_Ia_supernova
@@ -25,7 +25,7 @@ I am a graduate student at the [University of Notre Dame][nd-phys] doing researc
 
 # About this Site
 
-I use affiliate links for [Amazon], and I would not turn down any [gifts given][square] because of your generosity. 
+I use affiliate links for [Amazon], and I would not turn down any [gifts given][square] purely because of your generosity. 
 
 [Amazon]: https://www.amazon.com//ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=benjaminros0f-20&linkId=de5cbac379cbc21e038681e2dd313f77
 [square]: https://cash.me/$rose
