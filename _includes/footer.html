@@ -26,9 +26,10 @@
           </li>
           {% endif %}
 
-          {% if site.stackoverflow_username %}
+          {% if site.stackoverflow_ID %}
           <li>
-            {% include icon-stackoverflow.html username=site.stackoverflow_username %}
+            {% include icon-stackoverflow.html ID=site.stackoverflow_ID
+            username=site.stackoverflow_displayname %}
           </li>
           {% endif %}
         </ul>

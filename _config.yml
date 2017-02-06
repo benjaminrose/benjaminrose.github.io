@@ -15,7 +15,8 @@ baseurl: "" # the subpath of your site, e.g. /blog, adds everypage after this
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: _benjaminrose
 github_username:  benjaminrose
-stackoverflow_username: ben
+stackoverflow_displayname: benjamin rose
+stackoverflow_ID: 3874527
 # flikr_username: 
 
 # Build settings
