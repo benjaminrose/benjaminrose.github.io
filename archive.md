@@ -32,7 +32,7 @@ Welcome to the archives of my site. You can jump to a category's archive via the
 <h1 id="all--post">{{cat | capitalize}} <a name="{{cat | url_encode}}"></a></h1> 
 <!-- get posts, iterate over them like in 'all posts' -->
 {% for post in site.posts %}
-{% if post.category == {cat } %}
+{% if post.category == {cat} %}
 <!-- * {{post.title}}, {{post.url |  prepend: site.baseurl}} -->
   * {{ post.date | date: "%Y-%m-%d" }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endif %}
