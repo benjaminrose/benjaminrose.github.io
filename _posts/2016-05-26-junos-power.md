@@ -5,7 +5,7 @@ title: Juno's Power
 tags: Juno, Jupiter, electricity, video
 category: astronomy
 
-date: 2016-05-26 20:12:48 -0500
+date: 2016-05-26 20:12:48 -0400
 
 link: https://twitter.com/NASAJuno/status/733401804809998336
 summary: I ran across this today and I think everyone needs to see it.

@@ -5,7 +5,7 @@ title: My Life with a Therapy Dog
 tags: change
 category: therapy dog
 
-date: 2016-06-13 18:11:00 -0500
+date: 2016-06-13 18:11:00 -0400
 
 summary: 
 ---

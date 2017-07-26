@@ -2,7 +2,7 @@
 layout: post
 title: Apple's Macbook 1
 
-date: 2016-05-17 19:26:00 -0500
+date: 2016-05-17 19:26:00 -0400
 
 summary: Many people complain about Apple's new 12 inch Macbook.
 ---

@@ -5,7 +5,7 @@ title: Compassion — What it means to me
 tags: 
 category: 
 
-date: 2017-02-08 11:25:33 -0400
+date: 2017-02-08 11:25:33 -0500
 link: 
 
 summary: Many people set goals for the year. If you do this near January 1st it's called a New Years resolution. For the next 12 months, I am focusing on the word "compassion."

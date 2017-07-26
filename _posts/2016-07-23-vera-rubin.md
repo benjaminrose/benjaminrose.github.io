@@ -5,7 +5,7 @@ title: Vera Rubin
 tags: 
 category: astronomy
 
-date: 2016-07-23 11:35 -0500
+date: 2016-07-23 11:35 -0400
 link: https://www.brainpickings.org/2016/04/18/vera-rubin-interview-women-in-science/
 ---
 

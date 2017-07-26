@@ -5,7 +5,7 @@ title: The Death of Vera Rubin
 tags: 
 category: astronomy
 
-date: 2016-12-27 14:57:00 -0400
+date: 2016-12-27 14:57:00 -0500
 link: http://gizmodo.com/the-woman-who-convinced-us-that-dark-matter-existed-was-1790518288
 summary: Vera Rubin, an amazing Astrophysicist who's research changed everything about galaxy formation and cosmology, died this week. If you study something larger than a collection of a few stars (like me), your research is impacted daily by her discoveries.
 ---
