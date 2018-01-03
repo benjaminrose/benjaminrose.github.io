@@ -33,7 +33,7 @@ This is a static site built with [Jekyll] and hosted on [Github Pages]. These ar
 [ttt]: https://www.bartbusschots.ie/s/blog/taming-the-terminal/
 [markdown]: https://daringfireball.net/projects/markdown/
 
-Because I do this in my spare time as a hobby I use affiliate links for [Amazon], and I would not turn down any [gifts given][square] purely because of your generosity. Note that there are currently no financial costs associated with this website[^thanks].
+Because I do this in my spare time as a hobby I use affiliate links for [Amazon] to help offset the opportunity costs. I would also not turn down any [gifts given][square] purely because of your generosity, but please shoot me an [email](mailto:benjamin.rose@me.com) as well so I know it was not sent by accident. Note that there are currently no financial costs associated with running this website[^thanks].
 
 [Amazon]: https://www.amazon.com//ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=benjaminros0f-20&linkId=de5cbac379cbc21e038681e2dd313f77
 [square]: https://cash.me/$rose
