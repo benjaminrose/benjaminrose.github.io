@@ -1,11 +1,32 @@
 ---
 layout: page
-title: NP Group Search
+title: Northpoint Facility Care
 permalink: /np/
 publish: false
 ---
 
-# You know you want some wifi stuff
+# Status
+
+Here is what the facility care is working on. If you want to know any details (or progress notes) on a project just click on that item.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrLi3H9nAhLFwGg1?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+Difficulty Legend:
+
+* 3 - need to hire it out
+* 2 - needs planning, either
+    - takes time
+    - takes a team
+    - takes specific skills
+* 1 - only needs basic skills (can you use a hammer)
+* 0 - takes no skill (can you rearrange objects)
+
+# Submit
+
+If you have found a new issue not on my list, please let me know here.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrjlJsrWgdkUu6q6?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<!-- # You know you want some wifi stuff
 
 Why is the 802.11ac switch, 
 [Linksys Business AC1200 Dual-Band Access Point (LAPAC1200)](https://www.amazon.com/Linksys-Business-AC1200-Dual-Band-LAPAC1200/dp/B00KB49P1A/ref=as_li_ss_tl?s=pc&ie=UTF8&qid=1473644609&sr=1-1-fkmr0&keywords=Linksys+Business+Wireless-N600+Dual+Band+Access+Point+with+PoE+(LAPN600)&linkCode=ll1&tag=benjaminros0f-20&linkId=e10e231f638941ab22897b86d3c674d5), 
@@ -26,4 +47,4 @@ over this one
 
 # Small Group options
 
-<iframe src="https://northpointvineyard.ccbchurch.com/w_group_list.php" style="width:105%; height:90em;"></iframe>
+<iframe src="https://northpointvineyard.ccbchurch.com/w_group_list.php" style="width:105%; height:90em;"></iframe> -->
