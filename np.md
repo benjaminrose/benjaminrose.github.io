@@ -5,6 +5,11 @@ permalink: /np/
 publish: false
 ---
 
+Katie: Here is what I can do quickly. I bet Rowland can get it looking a bit better with a small amount of time.
+
+<iframe src="https://northpointvineyard.ccbchurch.com/w_give_online.php" style="width:80%;height:400px;"></iframe>
+
+
 # Status
 
 Here is what the facility care is working on. If you want to know any details (or progress notes) on a project just click on that item.
@@ -22,7 +27,7 @@ Difficulty Legend:
 
 # Submit
 
-If you have found a new issue not on my list, please let me know here.
+If you have found a new issue not on my list, please let me know here. If something is an emergency or needs quick attention, please follow up with an email or a phone call.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrjlJsrWgdkUu6q6?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
