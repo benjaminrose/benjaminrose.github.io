@@ -7,6 +7,8 @@
 
 # Site settings
 title: Benjamin Rose
+# Couriously exploring
+author: Benjamin Rose
 email: benjamin.rose@me.com
 description: > # this means to ignore newlines until "baseurl:"
   A little corner of the Internet for me. A place to share my thoughts
@@ -34,8 +36,9 @@ include: []
 #jekyll-archives does things by year and stores the categories strangly. 
 # it was easier to just make my own pages.
 
-gems:
+plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 ##index page!
 paginate: 7
