@@ -9,7 +9,7 @@ permalink: /src/
 
 ## Purpose
 
-This is a slack community, found at https://sn-research.slack.com, to foster communication between individual scientific collaborators working on small, inter-institute projects with a focus on supernova research. Get your sign-up link at the bottom of this page!
+This is a slack community, found at [https://sn-research.slack.com](https://sn-research.slack.com), to foster communication between individual scientific collaborators working on small, inter-institute projects with a focus on supernova research. Get your sign-up link at the bottom of this page!
 
 This is not a for large projects or groups. We request that you crate your own space, thank you. Large projects like [LSST](https://confluence.slac.stanford.edu/display/LSSTDESC/) or [WFIRST](https://outerspace.stsci.edu/site/wfirst) already have their own spaces. Though small working groups from these larger projects are more than welcome, just don't run the whole operation from this space.
 
@@ -42,7 +42,7 @@ This code of conduct applies to all community situations online and offline, in 
 
 ### Consequences of Misconduct
 
-Of you notice any misconduct it can be reported either publicly or privately to the Community Committee. In the case of a private report, the Committee will treat the reporting with the strictest of confidence.
+If you notice any misconduct it can be reported either publicly or privately to the Community Committee. In the case of a private report, the Committee will treat the reporting with the strictest of confidence.
 
 In the case of a formal complaint, the Community Committee will designate two members to hear both sides of the complaint, and if appropriate, consult witnesses. The Committee are responsible for ensuring the timely resolution of any formal complaints. If the complaint is upheld, the Community Committee will have a range of actions at their disposal to remedy the situation, up to and including removal from the SRC. In addition, the Committee reserves the right to remove a member from the SRC without formal investigation based on sanction or censure by the member’s department, institution, or professional society for activity that constitutes a violation of this Code of Conduct or places members at risk. The Community Committee will communicate the outcome of any investigation only to the complainant(s), the respondent(s) and those who they deem need to know.
 
