@@ -1,5 +1,5 @@
 ---
-layout: None
+layout: basic
 title: Supernova Research Collaboration
 permalink: /src/
 publish: false
