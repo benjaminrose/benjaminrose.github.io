@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Supernova Research Collaboration
 permalink: /src/
+publish: false
 ---
 
 # Supernova Research Collaboration (SRC)
@@ -51,12 +52,12 @@ Retaliation toward a member who pursues any of these options, or toward anyone a
 ### The Community Committee
 
 * Rebekah Hounsell
-* Susana Deustua
+* Masao Sako
 * Benjamin Rose
+<!-- * Susana Deustua
 * Lou Strolger
 * Kara Ponder
-* Masao Sako
-* Vivian Miranda
+* Vivian Miranda -->
 
 
 ## Get an account
