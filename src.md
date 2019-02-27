@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: None
 title: Supernova Research Collaboration
 permalink: /src/
 publish: false
@@ -54,6 +54,7 @@ Retaliation toward a member who pursues any of these options, or toward anyone a
 * Rebekah Hounsell
 * Masao Sako
 * Benjamin Rose
+
 <!-- * Susana Deustua
 * Lou Strolger
 * Kara Ponder
