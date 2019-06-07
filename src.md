@@ -47,18 +47,20 @@ If you notice any misconduct it can be reported either publicly or privately to 
 
 In the case of a formal complaint, the Community Committee will designate two members to hear both sides of the complaint, and if appropriate, consult witnesses. The Committee are responsible for ensuring the timely resolution of any formal complaints. If the complaint is upheld, the Community Committee will have a range of actions at their disposal to remedy the situation, up to and including removal from the SRC. In addition, the Committee reserves the right to remove a member from the SRC without formal investigation based on sanction or censure by the member’s department, institution, or professional society for activity that constitutes a violation of this Code of Conduct or places members at risk. The Community Committee will communicate the outcome of any investigation only to the complainant(s), the respondent(s) and those who they deem need to know.
 
-Retaliation toward a member who pursues any of these options, or toward anyone assisting either in the Ombuds process or in the investigation of a formal complaint, is a violation of this Code.
+Retaliation toward a member who pursues any of these options, or toward anyone assisting either in the ombuds process or in the investigation of a formal complaint, is a violation of this Code.
 
 ### The Community Committee
 
+* Susana Deustua
 * Rebekah Hounsell
+* Kara Ponder
 * Masao Sako
+* Lou Strolger
 * Benjamin Rose
 
-<!-- * Susana Deustua
-* Lou Strolger
-* Kara Ponder
-* Vivian Miranda -->
+<!-- 
+* Vivian Miranda
+* -->
 
 
 ## Get an account
