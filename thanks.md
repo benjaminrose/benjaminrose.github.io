@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thank You
+title: "Thank You: June 2015--December 2016"
 publish: false
 ---
 
@@ -242,21 +242,21 @@ I started this project as a challenge from my pastor; I continued it past a week
         - I have a wife who tries to fix everything that bothers me
         - I volunteer with people who help me get my tasks done, rather then before when I had to do everything
 
-## September
+## September 2016
 
 * 2016-09-20
     - Not stressing about unplanned vet bills
     - Consitency and expectedness in my relationship with my wife. Worring is the worst.  
     - A baby who is comfortable looking to me, rather then trying to go it alone. 
     
-## November
+## November 2016
 
 * 2016-11-25
     - Slow days with the family in the city.
 * 2016-11-28
     - Busses that are late when you are late.
 
-## December
+## December 2016
 
 * 2016-12-13
     - escapism from story telling, particuarly video

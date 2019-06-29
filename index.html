@@ -17,17 +17,19 @@ layout: default
             {% endif %}
           <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> -->
         </h2>
-        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }} {% if post.category %}• 📁 <a href="/archive/#{{post.category | url_encode}}" title="Category Archive">{{post.category | capitalize}}</a> {% endif %}</span>
         {% if post.summary %}
           <p> {{ post.summary}} </p> 
           <p><a href="{{ post.url | prepend: site.baseurl }}"> more →</a> </p>
         {% else %}
-          {{ post.content | truncatewords: 150, ' . . .'}}
-          <!-- if truncated add "more →" -->
+          <!-- full text, use summary meta data if front page should be truncated-->
+          {{ post.content }}
+          <!-- truncate posts & add "more →"-->
+          <!-- {{ post.content | truncatewords: 150, ' . . .'}}
           {% assign wordcount = {{post.content | number_of_words}} %}
           {% if wordcount > 150 %}
             <p><a href="{{ post.url | prepend: site.baseurl }}"> more →</a> </p>
-          {% endif %}
+          {% endif %} -->
         {% endif %}
       </li>
       <!-- <hr> -->

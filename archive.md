@@ -11,7 +11,10 @@ Welcome to the archives of my site. You can jump to a category's archive via the
 
 # Table of Contents
 
-{% for catplus in site.categories %}
+<!-- Sorted alphabetically thanks to Vanni Totaro's answer -->
+<!-- https://stackoverflow.com/questions/6387540/how-to-sort-a-hash-converted-to-an-array-in-liquid -->
+{% assign sortedcats = site.categories | sort %}
+{% for catplus in sortedcats %}
 {% assign cat = {catplus | first} %}
 <!-- site.cateories is a big object, but the first part of  each iteration is the catgory name!  -->
   * [ {{cat | capitalize}} ](#{{cat | url_encode}})
@@ -24,7 +27,8 @@ Welcome to the archives of my site. You can jump to a category's archive via the
 {% endfor %}
 
 <!-- iterate through all the categories -->
-{% for catplus in site.categories %}
+{% assign sortedcats = site.categories | sort %}
+{% for catplus in sortedcats %}
 
 {% assign cat = {catplus | first} %}
 <!-- get category title, make a header and tag the section for a internal page link-->

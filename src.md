@@ -5,28 +5,28 @@ permalink: /src/
 publish: false
 ---
 
-# Supernova Research Collaboration (SRC)
+<h1 class="post-title">Supernova Research Collaboration (SRC)</h1>
 
 
-## Purpose
+# Purpose
 
-This is a slack community, found at [https://sn-research.slack.com](https://sn-research.slack.com), to foster communication between individual scientific collaborators working on small, inter-institute projects with a focus on supernova research. Get your sign-up link at the bottom of this page!
+We are a slack community, found at [https://sn-research.slack.com](https://sn-research.slack.com), to foster communication between individual scientific collaborators working on small, inter-institute projects with a focus on supernova research. Get the sign-up link at the [bottom of this page](#get-an-account)!
 
 This is not a for large projects or groups. We request that you crate your own space, thank you. Large projects like [LSST](https://confluence.slac.stanford.edu/display/LSSTDESC/) or [WFIRST](https://outerspace.stsci.edu/site/wfirst) already have their own spaces. Though small working groups from these larger projects are more than welcome, just don't run the whole operation from this space.
 
 
-## Nomenclature
+# Nomenclature
 
 We have many channels, some are fun (#random), some are "water cooler talk" related to large projects many of us are participating in (#lsst, #wfirst), but most of the channels will be private work focused channels. Here we can discuss the progress of a paper (#paper-*description/cite-key*) or a project that is larger than one paper (#proj-*description*).
 
 
-## Code of Conduct
+# Code of Conduct
 
 We want a place where everyone field safe to be themselves. So we have intuitive code of conduct and a Community Committee to protect and advocate for the typically marginalized.
 
 We write this code of conduct with inspiration (and some direct coping) from the LSST DESC's Professional Conduct Policies ([http://lsstdesc.org/sites/default/files/LSST_DESC_Professional_Conduct.pdf](http://lsstdesc.org/sites/default/files/LSST_DESC_Professional_Conduct.pdf)) and Astopy's Community Code of Conduct ([https://www.astropy.org/code_of_conduct.html](https://www.astropy.org/code_of_conduct.html)). If there is an incident not covered bellow, we will fall back to the best judgment of the Community Committee.
 
-### The Supernova Research Collaboration Code of Conduct
+## The Supernova Research Collaboration Code of Conduct
 
 By joining, we attest that the type of community this space becomes will be created by our collective actions, as such,
 
@@ -41,7 +41,7 @@ By joining, we attest that the type of community this space becomes will be crea
 
 This code of conduct applies to all community situations online and offline, in group events or one-to-one interactions.
 
-### Consequences of Misconduct
+## Consequences of Misconduct
 
 If you notice any misconduct it can be reported either publicly or privately to the Community Committee. In the case of a private report, the Committee will treat the reporting with the strictest of confidence.
 
@@ -49,7 +49,7 @@ In the case of a formal complaint, the Community Committee will designate two me
 
 Retaliation toward a member who pursues any of these options, or toward anyone assisting either in the ombuds process or in the investigation of a formal complaint, is a violation of this Code.
 
-### The Community Committee
+## The Community Committee
 
 * Susana Deustua
 * Rebekah Hounsell
@@ -58,12 +58,8 @@ Retaliation toward a member who pursues any of these options, or toward anyone a
 * Lou Strolger
 * Benjamin Rose
 
-<!-- 
-* Vivian Miranda
-* -->
 
-
-## Get an account
+# Get an account
 
 Sign up [here](https://join.slack.com/t/sn-research/shared_invite/enQtNTU0MzM0NzE0MzczLTQ3ODIyZmIxZmQ1OTc0ZGQyMDQzZTRhN2JkN2VmMjU1ZDBmMDE4YzVhYmI4ZmQxNWJkYmYxMjVjNzAxMjI2MzI)!
 
