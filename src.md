@@ -61,7 +61,7 @@ Retaliation toward a member who pursues any of these options, or toward anyone a
 
 # Get an account
 
-Sign up [here](https://join.slack.com/t/sn-research/shared_invite/enQtNTU0MzM0NzE0MzczLTQ3ODIyZmIxZmQ1OTc0ZGQyMDQzZTRhN2JkN2VmMjU1ZDBmMDE4YzVhYmI4ZmQxNWJkYmYxMjVjNzAxMjI2MzI)!
+Sign up [here](https://join.slack.com/t/sn-research/shared_invite/zt-72nokr2d-Bgzl_d0obcOpt2zgu0Fqfw)!
 
 ------
 
