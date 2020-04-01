@@ -1,8 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
 ---
+
+[About * Research * CV * Teaching] 
 
 <img src="{{ "/images/benjamin-rose.jpg" | prepend: site.baseurl }}" class="right-inline" alt="😊" /> 
 
@@ -24,6 +24,8 @@ This is a static site built with [Jekyll] and hosted on [Github Pages]. These ar
 [Github Pages]: https://pages.github.com
 [ttt]: https://www.bartbusschots.ie/s/blog/taming-the-terminal/
 [markdown]: https://daringfireball.net/projects/markdown/
+
+Can I link to the [blog](/blog/)?
 
 # About my Work
 

@@ -3,7 +3,7 @@ layout: page
 title: Archive
 publish: true
 
-permalink: /archive/
+permalink: /blog/archive/
 category: astronomy
 ---
 
