@@ -1,8 +1,9 @@
 ---
 layout: default
+title: About
 ---
 
-[About * Research * CV * Teaching] 
+[About](#about) · [Research](#research) · [CV](#cv) · [Teaching](#teaching)
 
 <img src="{{ "/images/benjamin-rose.jpg" | prepend: site.baseurl }}" class="right-inline" alt="😊" /> 
 
@@ -15,7 +16,7 @@ I am an Astrophysics. I love technology, photography, music, and my family.
  Big Bang Theory Season 2 Episode 8 The Lizard-Spock Expansion
 Read more: http://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=big-bang-theory&episode=s02e08 -->
 
-
+<a name="about"></a>
 # About this Site
 
 This is a static site built with [Jekyll] and hosted on [Github Pages]. These are great free resources, and if you are looking to put a small bit of content on the web and have [tamed the terminal][ttt] then I would highly recommend this system. My word of warning is to start out simple. Your content is just in [markdown] files so it is easy to change the design and layout later. 
@@ -27,6 +28,7 @@ This is a static site built with [Jekyll] and hosted on [Github Pages]. These ar
 
 Can I link to the [blog](/blog/)?
 
+<a name="research"></a>
 # About my Work
 
 I try to understanding [Type Ia supernovae][sn] and use them to understand the [dynamics and age of the universe][obs-cosmology]. I do my dream job, one I dreamed about since I was in middle school. I hope that I never forget this privilege and the people who helped me get here.
@@ -41,9 +43,17 @@ More details can be found on my [professional web page][brose3], including a cop
 [brose3]: http://www3.nd.edu/~brose3/
 [CV]: http://www3.nd.edu/~brose3/#cv
 
+<a name="cv"></a>
+# CV
+
+<a name="teaching"></a>
+# Teaching
+
+
 # A bit more
 
 Because I do this in my spare time as a hobby I occasionally use affiliate links for [Amazon] to help offset the opportunity costs. Note that there are currently no financial costs associated with running this website. Thanks Github for the hosting!
 
 [Amazon]: https://www.amazon.com//ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=benjaminros0f-20&linkId=de5cbac379cbc21e038681e2dd313f77
 [square]: https://cash.me/$rose
+

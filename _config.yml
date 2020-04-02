@@ -42,4 +42,5 @@ plugins:
 
 ##index page!
 paginate: 7
-paginate_path: "page:num"
+# paginate_path: "page:num"
+paginate_path: "/blog/page:num/"
