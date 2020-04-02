@@ -39,9 +39,3 @@ More details can be found on my [professional web page][brose3], including a cop
 [brose3]: http://www3.nd.edu/~brose3/
 [CV]: http://www3.nd.edu/~brose3/#cv
 
-# A bit more
-
-Because I do this in my spare time as a hobby I occasionally use affiliate links for [Amazon] to help offset the opportunity costs. Note that there are currently no financial costs associated with running this website. Thanks Github for the hosting!
-
-[Amazon]: https://www.amazon.com//ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=benjaminros0f-20&linkId=de5cbac379cbc21e038681e2dd313f77
-[square]: https://cash.me/$rose

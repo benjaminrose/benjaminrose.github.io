@@ -2,6 +2,7 @@
 layout: post
 title: Needing to Write
 date: 2018-06-14 14:49:33 -0400
+category: writing
 tag:
     - writing
     - science
