@@ -5,3 +5,9 @@ _site
 .DS_Store
 *.sublime-workspace
 *.sublime-project
+
+.jekyll-cache/
+
+.nova/
+
+.vscode/
