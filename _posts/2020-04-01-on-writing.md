@@ -10,11 +10,12 @@ date: 2020-04-01 19:50:00 -0400
 
 Work can take interesting turns.
 
-In my previous [post](http://benjaminrose.github.io/blog/2018/06/14/needing-to-write.html) I discussed my plan to write more. It was well meaning, but not practical. It was born out of my frustration with not budgeting enough editing time into writing my [dissertation]. Since then I have learned two things: write more and put words on the page is not the same as writing.
+In my previous [post](http://benjaminrose.github.io/blog/2018/06/14/needing-to-write.html) I discussed my plan to write more. It was well meaning, but not practical. It was born out of my frustration with not budgeting enough editing time into writing my [dissertation]. Since then I have learned two things: write more and putting words on the page is not the same as writing.
 
 [dissertation]: https://curate.nd.edu/show/0k225b02573
 
-For the last half year or so, I have had been focusing on putting in more and more hours writing. As a scientist, I am judged by communicating my ideas. This is predominately done via the written word. For in preparation for and during this process I have learned that writing has three major phases: outlining/idea creation, drafting, and editing. 
+For the last half year or so, I have had been focusing on putting in more hours writing. As a scientist, I am judged by communicating my ideas. This is predominately done via the written word. In preparation for and during this process I have learned that writing has three major phases: outlining/idea creation, drafting, and editing. 
+
 
 This new system has worked. Scientics usually write one to two articles a year. Since my last blog post less than two years ago, I have not written just [one][rgb2019] or [two][rdr2020] journal article but [three][rdc2020]. On top of that, I have one more in the editing stage, and two in the drafting stage. All three should be out this year.
 
