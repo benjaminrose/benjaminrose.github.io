@@ -40,7 +40,7 @@ img {
 
 img.left-inline, img.right-inline {
 	display: inline;
-	width : 40%;
+	width : 38%;
 }
 img.left-inline {
     float: left;
@@ -106,4 +106,29 @@ div.footnotes{
 	border-top: 1px solid #384338;
 	padding-top:  1em;
 	margin-top: 3em;
+}
+
+
+
+/************/
+/*two column */
+/************/
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 45%;
+  padding: 15px;
+}
+
+
+/************/
+/* Research page "menu bar" */
+/************/
+#demobox {
+  background-color: #cfc ;
+  padding: 10px ;
 }
