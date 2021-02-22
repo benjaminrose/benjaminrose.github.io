@@ -12,7 +12,7 @@ publish: false
 
 We are a slack community, found at [https://sn-research.slack.com](https://sn-research.slack.com), to foster communication between individual scientific collaborators working on small, inter-institute projects with a focus on supernova research. Get the sign-up link at the [bottom of this page](#get-an-account)!
 
-This is not a for large projects or groups. We request that you crate your own space, thank you. Large projects like [LSST](https://confluence.slac.stanford.edu/display/LSSTDESC/) or [WFIRST](https://outerspace.stsci.edu/site/wfirst) already have their own spaces. Though small working groups from these larger projects are more than welcome, just don't run the whole operation from this space.
+This is not a for large projects or groups. We request that you crate your own space, thank you. Large projects like [LSST](https://confluence.slac.stanford.edu/display/LSSTDESC/) or [Roman](https://outerspace.stsci.edu/site/wfirst) already have their own spaces. Though small working groups from these larger projects are more than welcome, just don't run the whole operation from this space.
 
 
 # Nomenclature
@@ -62,6 +62,8 @@ Retaliation toward a member who pursues any of these options, or toward anyone a
 # Get an account
 
 Sign up [here](https://join.slack.com/t/sn-research/shared_invite/zt-72nokr2d-Bgzl_d0obcOpt2zgu0Fqfw)!
+
+This slack space is apart of the STScI enterprise grid. As a result, Susana Deustua and Lou Strolger are the points of contact for any technical issues.
 
 ------
 

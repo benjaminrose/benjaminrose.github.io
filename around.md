@@ -8,6 +8,7 @@ publish: false
 # 2020
 
 * Space.com - [Has Dark Energy Been Debunked? Probably Not.](https://www.space.com/dark-energy-not-debunked.html)
+* AAS Nova - [Shining Bright Through the Ages](https://aasnova.org/2020/07/10/shining-bright-through-the-ages/)
 
 # 2017
 
@@ -18,6 +19,6 @@ publish: false
 
 * Forbes - [An article on a paper I co-authored with Prof. Grant Mathews.](https://www.forbes.com/sites/brucedorminey/2015/02/23/chasing-the-mystery-of-spacetimes-local-bulk-flow/#417ee0424e0a)
 
-# Previous
+# Dead links
 
-* ~~Holly Allain Photography - [Wedding photos](http://www.hollyallain.com/#!/page/206784/weddings)~~ *link rought*
+* ~~Holly Allain Photography - [Wedding photos](http://www.hollyallain.com/#!/page/206784/weddings)~~
