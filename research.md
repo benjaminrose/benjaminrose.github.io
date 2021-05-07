@@ -75,7 +75,7 @@ Download a copy of my <a href="https://github.com/benjaminrose/CV/raw/master-pdf
 
 <!-- My projects of interest are listed above with a few example papers.  -->
 
-The [astrophysics data system][ads] has a [full list] of every [refereed] paper (as well as other [articles]) I contributed to. 
+The [astrophysics data system][ads] has a [full list] of every [refereed] paper (as well as other types of [articles]) I contributed to. 
 
 [ads]: https://ui.adsabs.harvard.edu
 [full list]: https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-1873-8973&sort=date%20desc%2C%20bibcode%20desc
@@ -83,7 +83,7 @@ The [astrophysics data system][ads] has a [full list] of every [refereed] paper 
 [articles]: https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22notrefereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22notrefereed%22)&q=orcid%3A0000-0002-1873-8973&sort=date%20desc%2C%20bibcode%20desc&p_=0
 
 
-Here I collect a reverse chronological list of non-papers: posters, talks, and other unpublished content.
+Here is a reverse chronological list of non-papers: posters, talks, and other unpublished content.
 
 <ul>
 {% for pres in site.presentations reversed %}
