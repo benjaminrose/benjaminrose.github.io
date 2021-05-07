@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
   about technology, science, and education.
 baseurl: "" # the subpath of your site, e.g. /blog, adds everypage after this
 url: "http://benjaminrose.github.io" # the base hostname & protocol for your site -- needed for RSS to link back to site.
-twitter_username: _benjaminrose
+# twitter_username: _benjaminrose
 github_username:  benjaminrose
 stackoverflow_displayname: benjamin rose
 stackoverflow_ID: 3874527
