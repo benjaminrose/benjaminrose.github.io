@@ -23,7 +23,8 @@ You can check that ruby and your gems can all by found by using `gem env`.
 
 Finally install this website's dependancies:
 ```bash
-gem install jekyll-paginate jekyll-redirect-from```
+gem install jekyll-paginate jekyll-redirect-from
+```
 Find all current dependancies listed in `_config.yml`.
 
 
