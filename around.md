@@ -10,6 +10,10 @@ publish: false
 * Space.com - [Has Dark Energy Been Debunked? Probably Not.](https://www.space.com/dark-energy-not-debunked.html)
 * AAS Nova - [Shining Bright Through the Ages](https://aasnova.org/2020/07/10/shining-bright-through-the-ages/)
 
+# 2018
+
+* [Goshen Birth Center](https://www.facebook.com/goshenbirthcenter/posts/10155818039026971
+
 # 2017
 
 * The Observer (ND) - [Solar eclipse interview](http://ndsmcobserver.com/2017/08/eclipse-o/)
