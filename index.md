@@ -9,7 +9,7 @@ publish: false
 
 <!-- # About Ben -->
 
-I am an [Astrophysics](/research) who loves technology, photography, music, and my being with my family. To learn more about me, here is a [blog](blog) of semi-random thoughts.
+I am an [Astrophysicist](/research) who loves technology, photography, music, and my being with my family. To learn more about me, here is a [blog](blog) of semi-random thoughts.
 <!--  -->
 
 
