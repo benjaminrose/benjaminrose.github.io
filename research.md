@@ -64,7 +64,7 @@ Download a copy of my <a href="https://github.com/benjaminrose/CV/raw/master-pdf
 <!-- one of these answers, by Lukasz Korzybiski, shows how to use docs.google's embed for any pdf. http://stackoverflow.com/questions/291813/recommended-way-to-embed-pdf-in-html#291823 -->
 <div class="auto-resizable-iframe">
     <div>
-            <iframe src="http://docs.google.com/gview?url=https://github.com/benjaminrose/CV/raw/master-pdf/Rose_CV.pdf&amp;embedded=true" width="100%" height="1000"></iframe>
+            <iframe src="https://docs.google.com/gview?url=https://github.com/benjaminrose/CV/raw/master-pdf/Rose_CV.pdf&amp;embedded=true" width="100%" height="1000"></iframe>
     </div>
 </div>
 <p></p>
