@@ -8,3 +8,4 @@ I am a member of the [Nancy Grace Roman Space Telescope](https://roman.gsfc.nasa
 Associated Papers:
 
 * [Rose, Rubin, Cikota, et al.](https://ui.adsabs.harvard.edu/abs/2020ApJ...896L...4R/abstract) [2020](https://iopscience.iop.org/article/10.3847/2041-8213/ab94ad)
+* [Rose, Aldering, Dai, et al.](https://ui.adsabs.harvard.edu/abs/2021arXiv210401199R/abstract) [2021](https://arxiv.org/abs/2104.01199)
