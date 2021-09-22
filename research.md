@@ -48,14 +48,6 @@ I like to bring my knowledge of statistics and creative, cross-discipline proble
 [sn]: https://en.wikipedia.org/wiki/Type_Ia_supernova
 [obs-cosmology]: https://en.wikipedia.org/wiki/Observational_cosmology
 
-<!-- <div class="flex-container">
-{% for project in site.projects %}
-  <div class="column" style="border:1px; border-style:solid; border-color:#000000; padding: 3px; margin: 4px">
-  <h3> {{ project.name }} </h3>
-  <p>{{ project.content | markdownify }}</p>
-  </div>
-{% endfor %}
-</div> -->
 
 <!-- <div style="padding-left: 25px; padding-right: 25px"> Use this to bring in the sub-projects -->
 <!-- Or just use class="wrapper" -->
