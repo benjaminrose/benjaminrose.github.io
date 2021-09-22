@@ -9,17 +9,17 @@
 title: Benjamin Rose
 # Couriously exploring
 author: Benjamin Rose
-email: benjamin.rose@me.com
+# email: benjamin.rose@me.com
 description: > # this means to ignore newlines until "baseurl:"
-  A little corner of the Internet for me. A place to share my thoughts
-  about technology, science, and education.
+  A corner of the Internet for me.
 baseurl: "" # the subpath of your site, e.g. /blog, adds everypage after this
 url: "http://benjaminrose.github.io" # the base hostname & protocol for your site -- needed for RSS to link back to site.
 # twitter_username: _benjaminrose
 github_username:  benjaminrose
-stackoverflow_displayname: benjamin rose
+stackoverflow_displayname: Benjamin Rose
 stackoverflow_ID: 3874527
 linkedin_username: benjaminmrose
+orcid: 0000-0002-1873-8973
 
 # Build settings
 markdown: kramdown
