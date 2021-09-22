@@ -64,7 +64,7 @@ Most of my research is in preparation for the [Nancy Grace Roman Space Telesecop
 
 ### Standardizing Type Ia Supernovae
 
-**Supernovae and their Host Galaxies:** 
+**Supernovae and their host galaxies:** 
 SNe Ia appear to know information about its host galaxy, specifically how many stars. This is strange. Why would a single star know about the size of its galaxy? 
 There are some explanations for these correlations, such as the fact that you are likely an old star if you live in an old galaxy, but we do not have a satisfying answer. My Ph.D. furthered our understanding of these correlations, but there is still work to be done. See,
 
@@ -80,7 +80,7 @@ We use a model for SN Ia that allows us to describe their diversity via just a f
 
 ### Other Projects
 
-**Bulk Flows:** 
+**Bulk flows:** 
 I have been apart of <a href="https://en.wikipedia.org/wiki/Dark_flow">cosmic bulk flow</a> analyses. We searched for the signature cosine in the <a href="https://en.wikipedia.org/wiki/Hubble%27s_law#Hubble_Diagram">Hubble diagram</a> <a href="https://en.wikipedia.org/wiki/Errors_and_residuals">residuals</a>.
 
 * [Mathew, Rose, Garnavich et al.](https://ui.adsabs.harvard.edu/#abs/2016ApJ...827...60M/abstract) [2016](https://iopscience.iop.org/article/10.3847/0004-637X/827/1/60)
