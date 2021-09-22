@@ -12,7 +12,7 @@ publish: false
 
 # 2018
 
-* [Goshen Birth Center](https://www.facebook.com/goshenbirthcenter/posts/10155818039026971
+* [Goshen Birth Center](https://www.facebook.com/goshenbirthcenter/posts/10155818039026971)
 
 # 2017
 
