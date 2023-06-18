@@ -25,4 +25,4 @@ So here is a video of what SDSS looks like at night, from initial set-up, to mid
 [^3]: when it looks like the telescope is glowing from the the inside.
 
 <!-- [cool science]: {{ root_url }}/blog/categories/cool-science/ -->
-[cool science]: {{root_url}}/tags/#cool-science
+<!-- [cool science]: {{root_url}}/tags/#cool-science -->

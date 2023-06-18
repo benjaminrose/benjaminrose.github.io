@@ -30,17 +30,16 @@ title: Research
 <!-- <a id="about"></a>
 ## About my Research  -->
 
-I currently work at [Duke University][duke] as a research scientist.
-I received my Ph.D. in Physics at the [University of Notre Dame][nd-phys] under [Peter Garnavich][peter]. I have previously worked at [Space Telescope Science Institute][stsci].
+I work at [Baylor University][baylor] as an Assistant Professor.
+I received my Ph.D. in Physics at the [University of Notre Dame][nd-phys] under [Peter Garnavich][peter]. I have previously worked at [Space Telescope Science Institute][stsci] and [Duke University][duke].
 
+[baylor]: https://www.baylor.edu/physics/
 [nd-phys]: https://www.physics.nd.edu
 [duke]: https://phy.duke.edu
 [stsci]: https://www.stsci.edu
 [peter]: https://physics.nd.edu/people/faculty/peter-garnavich/
 
 
-<a id="projects"></a>
-## Projects
 
 My research works to improve our understanding of a *specific* type of exploding star, [Type Ia supernovae][sn] (SNe Ia). We use SNe Ia to understand the [dynamics and size of the universe][obs-cosmology]. SNe Ia allow us to measure distances across the universe, a difficult task when all you have are pictures of the night sky.
 I like to bring my knowledge of statistics and creative, cross-discipline problem solving to each project.
@@ -49,19 +48,30 @@ I like to bring my knowledge of statistics and creative, cross-discipline proble
 [obs-cosmology]: https://en.wikipedia.org/wiki/Observational_cosmology
 
 
+<a id="projects"></a>
+## Projects
+
+My main research projects are intended to achieve 1% uncertainty in distances from SN Ia. Currently, a single SN Ia distance—the most precise in astronomy—has an uncertainty of 5%. In order to improve this, we need to both understand our [telescopes](#cal) and [SN Ia](#standardizing).
+
 <!-- <div style="padding-left: 25px; padding-right: 25px"> Use this to bring in the sub-projects -->
 <!-- Or just use class="wrapper" -->
 <a id="roman"></a>
 ### The Nancy Grace Roman Space Telescope
 
-Most of my research is in preparation for the [Nancy Grace Roman Space Telesecope][roman]. I am apart of a team of scientists thinking about how to do SN Ia cosmology with Roman. In a two year span, Roman will observe over 100 times as many distant SN Ia than we have observed over the last 30 years. Beyond the typical SN Ia cosmology research, we spend a significant amount of time on calibration and software planning work.
+Most of my research is in preparation for the [Nancy Grace Roman Space Telescope][roman]. I am apart of a team of scientists thinking about how to do SN Ia cosmology with Roman. In a two year span, Roman will observe over 100 times as many distant SN Ia than we have observed over the last 30 years. Beyond the typical SN Ia cosmology research, we spend a significant amount of time on calibration and software planning work.
 
 [roman]: https://roman.gsfc.nasa.gov
 
-* [Deustua, Rubin, Hounsell, Rose, et al.](https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...66D/abstract) [2021](https://iopscience.iop.org/article/10.3847/2515-5172/abf1fb)
 * [Rose, Aldering, Dai, et al.](https://ui.adsabs.harvard.edu/abs/2021arXiv210401199R/abstract) [2021](https://arxiv.org/abs/2104.01199)
+* [Deustua, Rubin, Hounsell, Rose, et al.](https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...66D/abstract) [2021](https://iopscience.iop.org/article/10.3847/2515-5172/abf1fb)
 
 
+<a id="cal"></a>
+### Calibration
+
+
+
+<a id="standardizing"></a>
 ### Standardizing Type Ia Supernovae
 
 **Supernovae and their host galaxies:** 

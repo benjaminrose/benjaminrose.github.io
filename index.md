@@ -5,22 +5,20 @@ publish: false
 
 # Welcome!
 
-<img src="{{ "/images/benjamin-rose.jpg" | prepend: site.baseurl }}" class="right-inline" alt="😊" /> 
+<img src="{{ "/images/benjamin-rose-2022.jpeg" | prepend: site.baseurl }}" class="right-inline" alt="😊" /> 
 
 <!-- # About Ben -->
 
-I am an [Astrophysicist](/research) who loves biking, technology, music, photography, and my being with my family. To learn more about me, here is a [blog](blog) of semi-random thoughts.
+I am an [Astrophysicist](/research) who loves biking, technology, music, photography, and my being with my family. To learn more about me personally, check out my [blog](blog) of semi-random thoughts.
 <!--  -->
 
 
 ## At Work
 
-During the day, I try to understand [Type Ia supernovae][sn] and use them to measure, amounts other things, the [age of the universe][obs-cosmology]. I get to do the job I have dreamed about since middle school. I hope to never forget this privilege and all the people who helped me along the way.
+During the day, I try to make the ultra-precise distance measurements across 80 Billion lightyears using [Type Ia supernovae][sn]. Recently, I am also tasked to teach and train the next generation of scientists.
 For more information about my work, read my [research](/research) page.
 
 [sn]: https://en.wikipedia.org/wiki/Type_Ia_supernova
-[obs-cosmology]: https://en.wikipedia.org/wiki/Observational_cosmology
-
 
 ## About this Site
 
