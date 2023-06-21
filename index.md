@@ -15,7 +15,7 @@ I am an [Astrophysicist](/research) who loves biking, technology, music, photogr
 
 ## At Work
 
-During the day, I try to make the ultra-precise distance measurements across 80 Billion lightyears using [Type Ia supernovae][sn]. Recently, I am also tasked to teach and train the next generation of scientists.
+During the day, I try to make ultra-precise distance measurements across 80 Billion lightyears using [Type Ia supernovae][sn]. I also teach and train the next generation of scientists.
 For more information about my work, read my [research](/research) page.
 
 [sn]: https://en.wikipedia.org/wiki/Type_Ia_supernova

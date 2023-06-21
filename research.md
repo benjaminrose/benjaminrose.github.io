@@ -51,14 +51,14 @@ I like to bring my knowledge of statistics and creative, cross-discipline proble
 <a id="projects"></a>
 ## Projects
 
-My main research projects are intended to achieve 1% uncertainty in distances from SN Ia. Currently, a single SN Ia distance—the most precise in astronomy—has an uncertainty of 5%. In order to improve this, we need to both understand our [telescopes](#cal) and [SN Ia](#standardizing).
+My research projects are intended to achieve 1% uncertainty in distances from SN Ia. Currently, a single SN Ia distance—the most precise cosmic distance indicator—has an uncertainty of 5%. In order to improve this, we need to both understand our [telescopes](#cal) and [SN Ia](#standardizing).
 
 <!-- <div style="padding-left: 25px; padding-right: 25px"> Use this to bring in the sub-projects -->
 <!-- Or just use class="wrapper" -->
 <a id="roman"></a>
 ### The Nancy Grace Roman Space Telescope
 
-Most of my research is in preparation for the [Nancy Grace Roman Space Telescope][roman]. I am apart of a team of scientists thinking about how to do SN Ia cosmology with Roman. In a two year span, Roman will observe over 100 times as many distant SN Ia than we have observed over the last 30 years. Beyond the typical SN Ia cosmology research, we spend a significant amount of time on calibration and software planning work.
+Most of my research is in preparation for the [Nancy Grace Roman Space Telescope][roman]. I am apart of a team of scientists thinking about how to optimize supernova cosmology with Roman. In a two year span, Roman will observe over 100 times as many distant SN Ia than we have observed over the last 30 years. Beyond the typical SN Ia cosmology research, we spend a significant amount of time on calibration and software planning work.
 
 [roman]: https://roman.gsfc.nasa.gov
 
@@ -69,7 +69,7 @@ Most of my research is in preparation for the [Nancy Grace Roman Space Telescope
 <a id="cal"></a>
 ### Calibration
 
-
+I have recently started work on improving our astronomical absolute flux scale. I hope to proved more details on this research soon.
 
 <a id="standardizing"></a>
 ### Standardizing Type Ia Supernovae
@@ -123,7 +123,7 @@ The [astrophysics data system][ads] has a [full list] of my [refereed] paper (as
 [articles]: https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22notrefereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22notrefereed%22)&q=orcid%3A0000-0002-1873-8973&sort=date%20desc%2C%20bibcode%20desc&p_=0
 
 
-Here is a reverse chronological list of non-papers: posters, talks, and other unpublished content.
+<!-- Here is a reverse chronological list of non-papers: posters, talks, and other unpublished content.
 
 <ul>
 {% for pres in site.presentations reversed %}
@@ -134,4 +134,4 @@ Here is a reverse chronological list of non-papers: posters, talks, and other un
       <li>{{ pres.content | markdownify }}</li>
       </ul>
 {% endfor %}
-</ul> 
+</ul>  -->
