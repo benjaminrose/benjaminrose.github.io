@@ -60,6 +60,9 @@ My research projects are intended to achieve 1% uncertainty in distances from SN
 
 Most of my research is in preparation for the [Nancy Grace Roman Space Telescope][roman]. I am apart of a team of scientists thinking about how to optimize supernova cosmology with Roman. In a two year span, Roman will observe over 100 times as many distant SN Ia than we have observed over the last 30 years. Beyond the typical SN Ia cosmology research, we spend a significant amount of time on calibration and software planning work.
 
+<p><div id="launch-readiness"></div></p>
+<script src="js/launch_countdown.js"></script>
+
 [roman]: https://roman.gsfc.nasa.gov
 
 * [Rose, Aldering, Dai, et al.](https://ui.adsabs.harvard.edu/abs/2021arXiv210401199R/abstract) [2021](https://arxiv.org/abs/2104.01199)
